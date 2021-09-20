@@ -49,5 +49,11 @@ a{
 }
 
 .text_list{
-    list-style-type: square;
+    list-style-type: nome;
+    padding-left: 15px;
+
+}
+
+.text_list li a {
+    text-decoration: none;
 }
