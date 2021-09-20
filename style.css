@@ -1,6 +1,8 @@
 body {
     background-color: #c7c7c7;
     font-family: verdana;
+    max-width: 900px;
+    margin: auto;
 }
 
 #title, .subtitle, .post_title{
@@ -10,6 +12,7 @@ body {
 #title {
     font-size: 40px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 a{
@@ -37,10 +40,12 @@ a{
     margin-bottom: 15px;
     border-radius: 5px 10px;
     text-transform: capitalize;
+    text-align: justify;
 }
 
 .post_image{
     margin-bottom: 15px;
+    width: 100%
 }
 
 .profile_image{
