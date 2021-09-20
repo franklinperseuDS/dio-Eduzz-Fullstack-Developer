@@ -118,6 +118,8 @@ Dentro do primeiro <header> da página e antes do <h1> iremos adicionar um eleme
 
 E dentro do <header> do <article> vamos fazer a mesma coisa, mas agora depois do <h3>, e no atributo alt colocaremos Editor de texto mostrando códigos HTML.
 
+site para reduzir a img : https://tinypng.com/
+
 Listas
 Os últimos elementos que veremos neste módulo são os relacionados a listas: <ul>, <ol> e <li>.
 
