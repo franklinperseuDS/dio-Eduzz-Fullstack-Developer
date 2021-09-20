@@ -47,3 +47,7 @@ a{
     border: 1px solid #505050;
     border-radius: 50px;
 }
+
+.text_list{
+    list-style-type: square;
+}
